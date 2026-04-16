@@ -1,0 +1,51 @@
+---
+title: "Home"
+---
+
+::: {.hero}
+# Yuchi Liu
+
+<div class="subtitle">Postdoctoral Researcher, Tsinghua University</div>
+
+Yuchi Liu received his Ph.D. in Mechanical Engineering from Zhejiang University in 2025 and joined Tsinghua University as a postdoctoral researcher in February 2026. His research focuses on the environmental durability of carbon-fiber-reinforced composites, interface enhancement, and multiscale finite element modeling, with particular interest in hygrothermal-mechanical coupling, seawater aging, hydrostatic-pressure effects, and compression failure of composite laminates.
+
+<div class="quick-links">
+<a href="research.html">Research</a>
+<a href="publications.html">Publications</a>
+<a href="projects.html">Projects</a>
+<a href="files/Liu_Yuchi_CV.pdf">Download CV</a>
+</div>
+:::
+
+## Biography {#biography .section-title}
+
+Yuchi Liu is currently a postdoctoral researcher at Tsinghua University. Before that, he completed his Ph.D. in Mechanical Engineering at Zhejiang University, where he worked on the durability, failure behavior, and performance prediction of composite structures in complex service environments. From December 2024 to December 2025, he was a joint Ph.D. trainee in Mechanical Engineering at the National University of Singapore under the supervision of Prof. Heow Pueh Lee.
+
+His recent work combines experiments, mechanics modeling, and finite element simulation to study the coupled effects of moisture, heat, seawater, hydrostatic pressure, and external loading on CFRP laminates and structures. He has also contributed to research on automated fiber placement, thick composite laminates, and Z-pinned composites.
+
+## Research Interests {#interests .section-title}
+
+- Environmental durability of carbon-fiber-reinforced composites
+- Hygrothermal-mechanical coupling and failure prediction
+- Seawater aging and hydrostatic-pressure effects on composites
+- Interface enhancement and Z-pinned composite laminates
+- Multiscale finite element modeling and simulation
+- Mechanical behavior optimization of composite structures
+
+## Education {#education .section-title}
+
+- **National University of Singapore**, Mechanical Engineering, Joint Ph.D. Training, 2024.12–2025.12
+- **Zhejiang University**, Mechanical Engineering, Ph.D., 2020.09–2025.12
+- **Wuhan University of Technology**, Energy and Power Engineering, B.Eng., 2016.09–2020.06
+
+## Selected Honors {#honors .section-title}
+
+- National Scholarship for Doctoral Students, Zhejiang University, 2023–2024
+- Top 10 Students of the School of Mechanical Engineering, Zhejiang University, 2024
+- Yuansheng Scholarship, Zhejiang University, 2022–2023
+- Outstanding Graduate, Wuhan University of Technology, 2020
+- National Scholarship for Undergraduate Students, 2017–2018
+
+::: {.note-box}
+This first version is intentionally concise and suitable for a clean academic homepage. You can later add a portrait, Google Scholar, ORCID, DOI links, teaching, news, or a full project gallery.
+:::

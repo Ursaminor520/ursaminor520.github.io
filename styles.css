@@ -1,0 +1,48 @@
+.hero {
+  padding: 2.2rem 1.8rem;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #f8fbff 0%, #eef5fb 100%);
+  border: 1px solid #dce8f5;
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  margin-bottom: 0.4rem;
+  font-weight: 700;
+}
+
+.hero .subtitle {
+  font-size: 1.1rem;
+  color: #4f657a;
+  margin-bottom: 1rem;
+}
+
+.quick-links a {
+  display: inline-block;
+  margin-right: 0.8rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  background: white;
+  border: 1px solid #d7e3ef;
+}
+
+.note-box {
+  padding: 0.9rem 1rem;
+  border-left: 4px solid #5c8fbe;
+  background: #f7fbff;
+  margin: 1rem 0;
+}
+
+.section-title {
+  margin-top: 2rem;
+}
+
+.pub-list li {
+  margin-bottom: 0.9rem;
+}
+
+.muted {
+  color: #6b7280;
+}

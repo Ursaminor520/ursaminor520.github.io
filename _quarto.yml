@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Yuchi Liu"
+  site-url: "https://ursaminor520.github.io"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: CV
+        href: files/Liu_Yuchi_CV.pdf
+  page-footer:
+    left: "© Yuchi Liu"
+    right: "Built with Quarto"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

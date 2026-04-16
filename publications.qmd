@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+<div class="muted">Below is a formatted publication list based on the current CV. DOI / journal links can be added later.</div>
+
+1. **Liu, Yuchi**, Wang, Han*, et al. Effect of Hygrothermal Aging on Compression Behavior of CFRP Material with Different Layups. *Composites Part B: Engineering*, 2024, 270: 111134.
+2. **Liu, Yuchi**, Wang, Han*, et al. Comparative Experimental Study on Mechanical Properties of CFRP Subjected to Seawater and Hydrostatic Pressure. *Composites Science and Technology*, 2023, 242: 110193.
+3. **Liu, Yuchi**, Lee, Heow Pueh*, et al. Coupled Moisture-Mechanical Prediction of Compression Failure of CFRP Laminates. *International Journal of Mechanical Sciences*, 2026, 309: 111028.
+4. **Liu, Yuchi**, Wang, Han*, et al. Experimental and Simulation Study on Compressive Failure Evolution of Multidirectional Laminates with Different Dimensions. *Engineering Failure Analysis*, 2023, 154: 107633.
+5. **Liu, Yuchi**, Lu, Jing, et al. Impact Resistance Optimization of Composite Laminates Based on Variable-Fidelity Surrogate Model. *Polymer Composites*, 2024, 45: 16075–16096.
+6. **Liu, Yuchi**, Lin, Jinlu, et al. Degradation and Strength Prediction of CFRP Under Hygrothermal-Mechanical Coupling Environment. *Polymer Composites*, 2025.
+7. **Liu, Yuchi**, Cai, Licheng, et al. Out-of-Plane Properties and Failure Mechanism of Composite Laminates Reinforced With Carbon Z-Pins. *Applied Composite Materials*, 2023, 30(2): 379–397.
+8. Lin, Jinlu, **Liu, Yuchi***, et al. Moisture Absorption Characterization and Mechanical Properties of CFRP Under the Combined Effects of Seawater and Continuous Bending Stress. *Applied Composite Materials*, 2024.
+9. **Liu, Yuchi**, Wang, Weiwei, et al. Investigation of the Hygrothermal Effects on In-Plane Failure Mechanisms of Fine Z-Pinned Laminates. *Journal of Composite Materials*, 2025, 59: 627–641.
+
+## Patents
+
+1. Wang, Han; **Liu, Yuchi**; Lin, Jinlu. Testing Fixture and Simulation Method for Composite Compression Performance Under Coupled External Loading. Chinese Invention Patent, **CN119985141A**, 2025.
+2. He, Ruming; **Liu, Yuchi**; Wang, Han. Integrated Optimization Method for Two-Stage Layup Path Planning of Complex Curved Composite Surfaces. Chinese Invention Patent, **CN120145782A**, 2025.
+
+## Notes for Future Improvement
+
+- Add DOI links for each paper.
+- Add Google Scholar / ORCID profile links.
+- Optionally separate publications into **First Author**, **Corresponding Author**, and **Co-authored** categories.
+- Optionally add PDFs, accepted manuscripts, or supplementary materials if permitted by publishers.

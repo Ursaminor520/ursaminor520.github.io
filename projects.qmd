@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+## Selected Research Projects
+
+### Mechanics of composite structures in seawater environments (2021.12–2024.12)
+**Role:** Major participant  
+This project studied the mechanical behavior of composite structures in seawater environments. My work focused on failure mechanisms under deep-sea cyclic loading, long-term seawater aging, damage prediction, and layup optimization. The project combined seawater exposure experiments with finite element simulation and supported several high-level journal publications.
+
+### Automated placement technology and equipment for high-performance composites (2021.01–2023.01)
+**Role:** Major participant  
+I worked on the mechanical performance evaluation of carbon-fiber-reinforced composite parts manufactured by automated fiber placement. The research examined how process parameters such as temperature, pressure, and speed affect porosity and mechanical behavior.
+
+### Integrated manufacturing technology for large composite pressure structures (2020.09–2022.06)
+**Role:** Major participant  
+This project involved thick composite laminates and large pressure-bearing composite structures. I contributed to experimental design for uniaxial and biaxial compression testing, platform design for biaxial compression experiments, hydrostatic-pressure testing, and Abaqus-based simulation of size effects and structural failure.
+
+### Rapid manufacturing technology for 3D-reinforced composites (2019.10–2021.05)
+**Role:** Major participant  
+I participated in the preparation of 3D reinforcements and composite structures, including carbon Z-pin fabrication and mechanical evaluation. The work further explored moisture-mechanical coupling and failure analysis after environmental aging.
+
+## Technical Skills
+
+- Abaqus
+- Origin
+- SolidWorks
+- AutoCAD
+- Microsoft Office
+- Photoshop
+
+## Collaboration
+
+During his doctoral training, Yuchi Liu established research collaboration with Prof. H. P. Lee's group at the National University of Singapore, especially in coupled environmental-mechanical modeling and prediction of composite failure.
