@@ -1,30 +1,26 @@
 ---
-title: "Research"
+title: Research
 ---
 
-::: {.content-wrap .container-narrow}
-My research centers on the durability, damage evolution, and predictive modeling of fiber-reinforced polymer composites in challenging environments. By combining mechanical testing, microstructural characterization, and finite element simulation, I aim to understand how environmental exposure alters material response and to develop reliable methods for performance prediction and structural design.
+## Research Interests
 
-## Research Themes
+### 1. Environmental durability of CFRP composites
+- Seawater immersion and hygrothermal aging
+- Hydrostatic pressure and sustained mechanical loading
+- Strength degradation, moisture diffusion, and long-term service reliability
 
-### Environmental durability of CFRP composites
-I investigate the long-term effects of seawater, hygrothermal exposure, hydrostatic pressure, and sustained mechanical loading on composite materials, with emphasis on strength degradation, moisture diffusion, and service reliability.
+### 2. Damage and mechanical behavior of laminated composites
+- Matrix cracking, interfacial debonding, and delamination
+- Compression behavior, flexural behavior, and failure-mode transition
+- Layup effects, size effects, and environmental coupling effects
 
-### Failure mechanisms and interfacial behavior
-My work examines matrix cracking, interfacial debonding, delamination, fiber fracture, and failure-mode transition under complex environmental and loading conditions. A key goal is to clarify how microstructural damage evolves into macroscopic performance loss.
+### 3. Multiscale modeling and predictive methods
+- Moisture diffusion modeling and degradation laws
+- Cohesive interface simulation and progressive damage analysis
+- Abaqus-based finite element modeling and strength prediction
 
-### Multiscale finite element modeling and prediction
-I develop experimental–computational approaches for predicting degradation and failure in composite laminates. This includes moisture diffusion modeling, constitutive degradation, cohesive interface simulation, and data-informed strength prediction frameworks.
+## Academic Background
 
-## Methods
-My research combines:
-
-- mechanical testing under marine and hygrothermal conditions;
-- SEM, EDS, XRD, FTIR, and DMA characterization;
-- Abaqus-based finite element simulation;
-- Python-assisted data processing and model implementation;
-- empirical and physics-informed prediction methods.
-
-## Background
-Yuchi Liu received his Ph.D. in Mechanical Engineering from Zhejiang University. From 2024 to 2025, he worked as a visiting researcher at the National University of Singapore. He is currently a postdoctoral researcher at Tsinghua University.
-:::
+- **2026–Present**  Postdoctoral Researcher, Tsinghua University
+- **2024–2025**  Joint Ph.D. Student, National University of Singapore
+- **2020–2026**  Ph.D. in Mechanical Engineering, Zhejiang University

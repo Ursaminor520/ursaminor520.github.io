@@ -1,35 +1,30 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Yuchi Liu"
   site-url: "https://www.liuyuchi.me"
   navbar:
-    background: white
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: projects.qmd
-        text: Projects
-      - href: contact.qmd
-        text: Contact
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Contact
+        href: contact.qmd
   page-footer:
-    left: "© Yuchi Liu"
-    right: "Built with Quarto"
-  search: false
+    center: "© Yuchi Liu. All rights reserved."
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: false
+    css: styles.css
+    include-after-body: assets/js/carousel.js
     smooth-scroll: true
-    link-external-newwindow: true
-    page-layout: full
-
-execute:
-  freeze: auto

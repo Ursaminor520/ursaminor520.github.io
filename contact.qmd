@@ -1,20 +1,15 @@
 ---
-title: "Contact"
+title: Contact
 ---
 
-::: {.content-wrap .container-narrow}
-## Contact Information
+## Contact
 
 **Yuchi Liu**  
 Postdoctoral Researcher  
-Tsinghua University  
-Email: [liuyuchi@zju.edu.cn](mailto:liuyuchi@zju.edu.cn)
+Tsinghua University
 
-## External Profile
+**Email:** [liuyuchi@zju.edu.cn](mailto:liuyuchi@zju.edu.cn)
 
-- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=frOLfcIAAAAJ)
-
-## Note
+**Google Scholar:** available on the homepage
 
 I welcome academic exchanges and potential collaborations related to composite materials, durability, structural mechanics, and computational modeling.
-:::

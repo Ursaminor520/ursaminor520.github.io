@@ -1,78 +1,45 @@
 ---
-title: "Home"
+title: Home
 ---
 
-::: {.hero-wrap .container}
-:::{.hero-left}
-![](assets/img/portrait.jpg){.portrait}
-:::
-:::{.hero-right}
-# Yuchi Liu
-
-<div class="hero-role">Postdoctoral Researcher</div>
-<div class="hero-affiliation">Tsinghua University</div>
-
-I am a postdoctoral researcher working on the environmental durability and failure behavior of carbon fiber reinforced polymer (CFRP) composites. My research focuses on hygrothermal aging, interfacial damage, and multiscale finite element modeling, with the goal of improving the reliability and long-term performance of composite structures in demanding service environments.
-
-Previously, I received my Ph.D. in Mechanical Engineering from Zhejiang University and worked as a visiting researcher at the National University of Singapore.
-
-<div class="hero-contact"><strong>Email:</strong> <a href="mailto:liuyuchi@zju.edu.cn">liuyuchi@zju.edu.cn</a></div>
-
-<div class="hero-links">
-  <a class="hero-link" href="https://scholar.google.com/citations?hl=zh-CN&user=frOLfcIAAAAJ">Google Scholar</a>
+<div class="home-hero">
+  <div class="hero-portrait-wrap">
+    <img src="assets/img/portrait.jpg" alt="Portrait of Yuchi Liu" class="hero-portrait">
+  </div>
+  <div class="hero-copy">
+    <h1 class="hero-name">Yuchi Liu</h1>
+    <div class="hero-role">Postdoctoral Researcher</div>
+    <div class="hero-org">Tsinghua University</div>
+    <p class="hero-bio">I work on the environmental durability and mechanical behavior of carbon fiber reinforced polymer (CFRP) composites, with particular interests in hygrothermal aging, interfacial damage, and multiscale finite element modeling.</p>
+    <p class="hero-email"><strong>Email:</strong> <a href="mailto:liuyuchi@zju.edu.cn">liuyuchi@zju.edu.cn</a></p>
+    <p class="hero-links"><a class="hero-button" href="https://scholar.google.com/citations?hl=zh-CN&user=frOLfcIAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+  </div>
 </div>
-:::
-:::
 
-::: {.section-wrap .container}
-## Research Highlights {.section-title}
+## Research Highlights
 
-::: {.highlight-grid}
-:::{.highlight-card}
-![](assets/img/highlight-1.jpg){.highlight-img}
-### Marine Durability under Seawater and Hydrostatic Pressure
-This work investigates how seawater exposure and hydrostatic pressure affect the mechanical response and failure behavior of CFRP laminates, with particular attention to in-plane properties, interlaminar toughness, and durability in marine structures.
-:::
-
-:::{.highlight-card}
-![](assets/img/highlight-2.jpg){.highlight-img}
-### Hygrothermal Aging Mechanisms of CFRP Composites
-Through SEM, EDS, XRD, and FTIR characterization, this study reveals the microstructural and chemical evolution of CFRP laminates during long-term hygrothermal exposure and clarifies the relationship between aging damage and compressive degradation.
-:::
-
-:::{.highlight-card}
-![](assets/img/highlight-3.jpg){.highlight-img}
-### Coupled Moisture–Mechanical Prediction of Compression Failure
-A coupled experimental–computational framework is developed to predict moisture diffusion, property degradation, and compression failure in CFRP laminates, integrating finite element simulation with physics-based parameter identification.
-:::
-:::
-:::
-
-::: {.section-wrap .container}
-## Selected Publications {.section-title}
-
-::: {.pub-home-list}
-:::{.pub-home-item}
-### Coupled moisture–mechanical prediction of compression failure of CFRP laminates
-*International Journal of Mechanical Sciences*, 2026  
-A coupled moisture–mechanical model was developed to predict residual strength degradation and compression failure behavior of CFRP laminates in hygrothermal environments.
-:::
-
-:::{.pub-home-item}
-### Effect of Hygrothermal Aging on Compression Behavior of CFRP Material with Different Layups
-*Composites Part B: Engineering*, 2024  
-This study systematically examined the influence of long-term seawater aging on CFRP laminates with different layups and proposed an empirical framework for compressive strength prediction.
-:::
-
-:::{.pub-home-item}
-### Comparative Experimental Study on Mechanical Properties of CFRP Subjected to Seawater and Hydrostatic Pressure
-*Composites Science and Technology*, 2023  
-This work experimentally compared the effects of seawater and hydrostatic pressure on the mechanical properties of CFRP laminates and clarified the associated degradation mechanisms.
-:::
-
-:::{.pub-home-item}
-### Degradation and Strength Prediction of CFRP Under Hygrothermal–Mechanical Coupling Environment
-*Polymer Composites*, 2025  
-This study investigated the coupled effects of seawater, temperature, and sustained compressive loading on CFRP degradation and proposed long-term strength prediction models.
-:::
-:::
+<div class="highlight-carousel" data-carousel>
+  <button class="carousel-btn prev" type="button" aria-label="Previous highlight">&#10094;</button>
+  <div class="carousel-viewport">
+    <div class="carousel-track">
+      <section class="carousel-slide is-active">
+        <img src="assets/img/highlight-1.jpg" alt="Marine durability under seawater and hydrostatic pressure">
+        <h3>Marine Durability under Seawater and Hydrostatic Pressure</h3>
+      </section>
+      <section class="carousel-slide">
+        <img src="assets/img/highlight-2.jpg" alt="Hygrothermal aging mechanisms of CFRP composites">
+        <h3>Hygrothermal Aging Mechanisms of CFRP Composites</h3>
+      </section>
+      <section class="carousel-slide">
+        <img src="assets/img/highlight-3.jpg" alt="Coupled moisture–mechanical prediction of compression failure">
+        <h3>Coupled Moisture–Mechanical Prediction of Compression Failure</h3>
+      </section>
+    </div>
+  </div>
+  <button class="carousel-btn next" type="button" aria-label="Next highlight">&#10095;</button>
+  <div class="carousel-dots" aria-label="Select highlight">
+    <button class="dot is-active" type="button" aria-label="Go to highlight 1"></button>
+    <button class="dot" type="button" aria-label="Go to highlight 2"></button>
+    <button class="dot" type="button" aria-label="Go to highlight 3"></button>
+  </div>
+</div>

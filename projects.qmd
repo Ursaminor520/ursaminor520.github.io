@@ -1,33 +1,29 @@
 ---
-title: "Projects"
+title: Research Projects
 ---
 
-::: {.content-wrap .container-narrow}
-My research has been supported by multiple projects related to composite durability, manufacturing, and mechanical performance evaluation.
-
-## Selected Projects
+## Research Projects
 
 ### Mechanical Performance of Composite Structures in Seawater Environments
-*Zhejiang University Fundamental Research Funds, 2021–2024*  
-**Role:** Major participant
-
-This project focused on failure mechanisms and damage evolution of composite structures in marine environments. My work involved hygrothermal aging experiments, finite element simulation, service-life prediction, and layup optimization for CFRP structures under seawater exposure.
+**2021–2024, Zhejiang University Fundamental Research Funds**  
+**Role:** Major Participant
+- Hygrothermal aging experiments and mechanical behavior analysis of CFRP laminates
+- Finite element simulation, service-life prediction, and layup optimization
 
 ### Automated Placement Technology and Equipment for High-Performance Composites
-*Zhejiang Provincial Science and Technology Project, 2021–2023*  
-**Role:** Major participant
-
-This project investigated the mechanical evaluation of automated fiber-placed CFRP components. My work focused on the effects of processing parameters such as temperature, pressure, and speed on porosity and mechanical behavior.
+**2021–2023, Zhejiang Provincial Science and Technology Project**  
+**Role:** Major Participant
+- Mechanical evaluation of automated fiber-placed CFRP components
+- Effects of processing parameters on porosity and mechanical behavior
 
 ### Integrated Manufacturing Technology for Large Composite Pressure Hull Sections
-*GF Science and Technology Innovation Project, 2020–2022*  
-**Role:** Major participant
-
-This project addressed large-thickness composite laminates and pressure-bearing structures. My contributions included experimental design, testing platform development, hydrostatic testing participation, and Abaqus-based analysis of thickness-dependent compressive failure.
+**2020–2022, GF Science and Technology Innovation Project**  
+**Role:** Major Participant
+- Experimental design and hydrostatic testing of thick composite laminates
+- Abaqus-based analysis of thickness-dependent compressive failure
 
 ### Rapid Manufacturing Technology for Three-Dimensional Reinforced Composites
-*GF Science and Technology Innovation Project, 2019–2021*  
-**Role:** Major participant
-
-This project focused on the preparation and evaluation of Z-pinned composite structures. I participated in the fabrication of carbon Z-pins and the investigation of their mechanical behavior and failure mechanisms under marine environments.
-:::
+**2019–2021, GF Science and Technology Innovation Project**  
+**Role:** Major Participant
+- Preparation and evaluation of carbon Z-pin reinforced composites
+- Mechanical behavior and failure mechanisms under marine environments
