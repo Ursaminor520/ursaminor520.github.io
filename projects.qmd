@@ -1,29 +1,37 @@
 ---
-title: Research Projects
+pagetitle: Projects
 ---
 
-## Research Projects
+# Research Projects
 
-### Mechanical Performance of Composite Structures in Seawater Environments
+## 1. Mechanical Performance of Composite Structures in Seawater Environments
+
 **2021–2024, Zhejiang University Fundamental Research Funds**  
 **Role:** Major Participant
+
 - Hygrothermal aging experiments and mechanical behavior analysis of CFRP laminates
 - Finite element simulation, service-life prediction, and layup optimization
 
-### Automated Placement Technology and Equipment for High-Performance Composites
+## 2. Automated Placement Technology and Equipment for High-Performance Composites
+
 **2021–2023, Zhejiang Provincial Science and Technology Project**  
 **Role:** Major Participant
+
 - Mechanical evaluation of automated fiber-placed CFRP components
 - Effects of processing parameters on porosity and mechanical behavior
 
-### Integrated Manufacturing Technology for Large Composite Pressure Hull Sections
+## 3. Integrated Manufacturing Technology for Large Composite Pressure Hull Sections
+
 **2020–2022, GF Science and Technology Innovation Project**  
 **Role:** Major Participant
+
 - Experimental design and hydrostatic testing of thick composite laminates
 - Abaqus-based analysis of thickness-dependent compressive failure
 
-### Rapid Manufacturing Technology for Three-Dimensional Reinforced Composites
+## 4. Rapid Manufacturing Technology for Three-Dimensional Reinforced Composites
+
 **2019–2021, GF Science and Technology Innovation Project**  
 **Role:** Major Participant
+
 - Preparation and evaluation of carbon Z-pin reinforced composites
 - Mechanical behavior and failure mechanisms under marine environments

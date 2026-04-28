@@ -1,7 +1,8 @@
 ---
-title: Home
+pagetitle: Home
 ---
 
+```{=html}
 <div class="home-hero">
   <div class="hero-portrait-wrap">
     <img src="assets/img/portrait.jpg" alt="Portrait of Yuchi Liu" class="hero-portrait">
@@ -15,11 +16,13 @@ title: Home
     <p class="hero-links"><a class="hero-button" href="https://scholar.google.com/citations?hl=zh-CN&user=frOLfcIAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
   </div>
 </div>
+```
 
 ## Research Highlights
 
+```{=html}
 <div class="highlight-carousel" data-carousel>
-  <button class="carousel-btn prev" type="button" aria-label="Previous highlight">&#10094;</button>
+  <button class="carousel-btn prev" type="button" aria-label="Previous research highlight">‹</button>
   <div class="carousel-viewport">
     <div class="carousel-track">
       <section class="carousel-slide is-active">
@@ -31,15 +34,16 @@ title: Home
         <h3>Hygrothermal Aging Mechanisms of CFRP Composites</h3>
       </section>
       <section class="carousel-slide">
-        <img src="assets/img/highlight-3.jpg" alt="Coupled moisture–mechanical prediction of compression failure">
+        <img src="assets/img/highlight-3.jpg" alt="Coupled moisture-mechanical prediction of compression failure">
         <h3>Coupled Moisture–Mechanical Prediction of Compression Failure</h3>
       </section>
     </div>
   </div>
-  <button class="carousel-btn next" type="button" aria-label="Next highlight">&#10095;</button>
-  <div class="carousel-dots" aria-label="Select highlight">
+  <button class="carousel-btn next" type="button" aria-label="Next research highlight">›</button>
+  <div class="carousel-dots" aria-label="Research highlight carousel controls">
     <button class="dot is-active" type="button" aria-label="Go to highlight 1"></button>
     <button class="dot" type="button" aria-label="Go to highlight 2"></button>
     <button class="dot" type="button" aria-label="Go to highlight 3"></button>
   </div>
 </div>
+```

@@ -1,14 +1,14 @@
 ---
-title: Contact
+pagetitle: Contact
 ---
 
-## Contact
+# Contact
 
 **Yuchi Liu**  
 Postdoctoral Researcher  
 Tsinghua University
 
-**Email:** [liuyuchi@zju.edu.cn](mailto:liuyuchi@zju.edu.cn)
+**Email:** <liuyuchi@zju.edu.cn>
 
 **Google Scholar:** available on the homepage
 
