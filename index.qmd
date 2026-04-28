@@ -2,50 +2,77 @@
 title: "Home"
 ---
 
-::: {.hero}
+::: {.hero-wrap .container}
+:::{.hero-left}
+![](assets/img/portrait.jpg){.portrait}
+:::
+:::{.hero-right}
 # Yuchi Liu
 
-<div class="subtitle">Postdoctoral Researcher, Tsinghua University</div>
+<div class="hero-role">Postdoctoral Researcher</div>
+<div class="hero-affiliation">Tsinghua University</div>
 
-Yuchi Liu received his Ph.D. in Mechanical Engineering from Zhejiang University in 2025 and joined Tsinghua University as a postdoctoral researcher in February 2026. His research focuses on the environmental durability of carbon-fiber-reinforced composites, interface enhancement, and multiscale finite element modeling, with particular interest in hygrothermal-mechanical coupling, seawater aging, hydrostatic-pressure effects, and compression failure of composite laminates.
+I am a postdoctoral researcher working on the environmental durability and failure behavior of carbon fiber reinforced polymer (CFRP) composites. My research focuses on hygrothermal aging, interfacial damage, and multiscale finite element modeling, with the goal of improving the reliability and long-term performance of composite structures in demanding service environments.
 
-<div class="quick-links">
-<a href="research.html">Research</a>
-<a href="publications.html">Publications</a>
-<a href="projects.html">Projects</a>
-<a href="files/Liu_Yuchi_CV.pdf">Download CV</a>
+Previously, I received my Ph.D. in Mechanical Engineering from Zhejiang University and worked as a visiting researcher at the National University of Singapore.
+
+<div class="hero-contact"><strong>Email:</strong> <a href="mailto:liuyuchi@zju.edu.cn">liuyuchi@zju.edu.cn</a></div>
+
+<div class="hero-links">
+  <a class="hero-link" href="https://scholar.google.com/citations?hl=zh-CN&user=frOLfcIAAAAJ">Google Scholar</a>
 </div>
 :::
+:::
 
-## Biography {#biography .section-title}
+::: {.section-wrap .container}
+## Research Highlights {.section-title}
 
-Yuchi Liu is currently a postdoctoral researcher at Tsinghua University. Before that, he completed his Ph.D. in Mechanical Engineering at Zhejiang University, where he worked on the durability, failure behavior, and performance prediction of composite structures in complex service environments. From December 2024 to December 2025, he was a joint Ph.D. trainee in Mechanical Engineering at the National University of Singapore under the supervision of Prof. Heow Pueh Lee.
+::: {.highlight-grid}
+:::{.highlight-card}
+![](assets/img/highlight-1.jpg){.highlight-img}
+### Marine Durability under Seawater and Hydrostatic Pressure
+This work investigates how seawater exposure and hydrostatic pressure affect the mechanical response and failure behavior of CFRP laminates, with particular attention to in-plane properties, interlaminar toughness, and durability in marine structures.
+:::
 
-His recent work combines experiments, mechanics modeling, and finite element simulation to study the coupled effects of moisture, heat, seawater, hydrostatic pressure, and external loading on CFRP laminates and structures. He has also contributed to research on automated fiber placement, thick composite laminates, and Z-pinned composites.
+:::{.highlight-card}
+![](assets/img/highlight-2.jpg){.highlight-img}
+### Hygrothermal Aging Mechanisms of CFRP Composites
+Through SEM, EDS, XRD, and FTIR characterization, this study reveals the microstructural and chemical evolution of CFRP laminates during long-term hygrothermal exposure and clarifies the relationship between aging damage and compressive degradation.
+:::
 
-## Research Interests {#interests .section-title}
+:::{.highlight-card}
+![](assets/img/highlight-3.jpg){.highlight-img}
+### Coupled Moisture–Mechanical Prediction of Compression Failure
+A coupled experimental–computational framework is developed to predict moisture diffusion, property degradation, and compression failure in CFRP laminates, integrating finite element simulation with physics-based parameter identification.
+:::
+:::
+:::
 
-- Environmental durability of carbon-fiber-reinforced composites
-- Hygrothermal-mechanical coupling and failure prediction
-- Seawater aging and hydrostatic-pressure effects on composites
-- Interface enhancement and Z-pinned composite laminates
-- Multiscale finite element modeling and simulation
-- Mechanical behavior optimization of composite structures
+::: {.section-wrap .container}
+## Selected Publications {.section-title}
 
-## Education {#education .section-title}
+::: {.pub-home-list}
+:::{.pub-home-item}
+### Coupled moisture–mechanical prediction of compression failure of CFRP laminates
+*International Journal of Mechanical Sciences*, 2026  
+A coupled moisture–mechanical model was developed to predict residual strength degradation and compression failure behavior of CFRP laminates in hygrothermal environments.
+:::
 
-- **National University of Singapore**, Mechanical Engineering, Joint Ph.D. Training, 2024.12–2025.12
-- **Zhejiang University**, Mechanical Engineering, Ph.D., 2020.09–2025.12
-- **Wuhan University of Technology**, Energy and Power Engineering, B.Eng., 2016.09–2020.06
+:::{.pub-home-item}
+### Effect of Hygrothermal Aging on Compression Behavior of CFRP Material with Different Layups
+*Composites Part B: Engineering*, 2024  
+This study systematically examined the influence of long-term seawater aging on CFRP laminates with different layups and proposed an empirical framework for compressive strength prediction.
+:::
 
-## Selected Honors {#honors .section-title}
+:::{.pub-home-item}
+### Comparative Experimental Study on Mechanical Properties of CFRP Subjected to Seawater and Hydrostatic Pressure
+*Composites Science and Technology*, 2023  
+This work experimentally compared the effects of seawater and hydrostatic pressure on the mechanical properties of CFRP laminates and clarified the associated degradation mechanisms.
+:::
 
-- National Scholarship for Doctoral Students, Zhejiang University, 2023–2024
-- Top 10 Students of the School of Mechanical Engineering, Zhejiang University, 2024
-- Yuansheng Scholarship, Zhejiang University, 2022–2023
-- Outstanding Graduate, Wuhan University of Technology, 2020
-- National Scholarship for Undergraduate Students, 2017–2018
-
-::: {.note-box}
-This first version is intentionally concise and suitable for a clean academic homepage. You can later add a portrait, Google Scholar, ORCID, DOI links, teaching, news, or a full project gallery.
+:::{.pub-home-item}
+### Degradation and Strength Prediction of CFRP Under Hygrothermal–Mechanical Coupling Environment
+*Polymer Composites*, 2025  
+This study investigated the coupled effects of seawater, temperature, and sustained compressive loading on CFRP degradation and proposed long-term strength prediction models.
+:::
 :::

@@ -2,32 +2,29 @@
 title: "Research"
 ---
 
-## Overview
+::: {.content-wrap .container-narrow}
+My research centers on the durability, damage evolution, and predictive modeling of fiber-reinforced polymer composites in challenging environments. By combining mechanical testing, microstructural characterization, and finite element simulation, I aim to understand how environmental exposure alters material response and to develop reliable methods for performance prediction and structural design.
 
-My research centers on the mechanics, durability, and failure of advanced composite materials and structures under coupled environmental and mechanical loading. I combine experimental characterization, constitutive understanding, and finite element simulation to reveal degradation mechanisms and improve structural design.
+## Research Themes
 
-## Main Research Themes
+### Environmental durability of CFRP composites
+I investigate the long-term effects of seawater, hygrothermal exposure, hydrostatic pressure, and sustained mechanical loading on composite materials, with emphasis on strength degradation, moisture diffusion, and service reliability.
 
-### 1. Environmental durability of CFRP composites
+### Failure mechanisms and interfacial behavior
+My work examines matrix cracking, interfacial debonding, delamination, fiber fracture, and failure-mode transition under complex environmental and loading conditions. A key goal is to clarify how microstructural damage evolves into macroscopic performance loss.
 
-I study how seawater, moisture, temperature, and hydrostatic pressure affect the damage evolution and load-bearing capacity of composite laminates. This line of research aims to provide a more realistic understanding of composite service behavior in marine and harsh environments.
+### Multiscale finite element modeling and prediction
+I develop experimental–computational approaches for predicting degradation and failure in composite laminates. This includes moisture diffusion modeling, constitutive degradation, cohesive interface simulation, and data-informed strength prediction frameworks.
 
-### 2. Hygrothermal-mechanical coupling and failure prediction
+## Methods
+My research combines:
 
-A major focus of my work is the coupled prediction of strength degradation and compression failure in CFRP laminates. By integrating experiments with simulation, I seek to build predictive frameworks for long-term performance assessment and life estimation.
+- mechanical testing under marine and hygrothermal conditions;
+- SEM, EDS, XRD, FTIR, and DMA characterization;
+- Abaqus-based finite element simulation;
+- Python-assisted data processing and model implementation;
+- empirical and physics-informed prediction methods.
 
-### 3. Interface enhancement and Z-pinned composites
-
-I am interested in through-thickness reinforcement and interface-related strengthening strategies, especially carbon Z-pins. My work explores how reinforcement parameters and service environments influence out-of-plane properties and failure mechanisms.
-
-### 4. Multiscale finite element modeling
-
-I use finite element methods to investigate compression failure, size effects, and damage evolution in composite structures. This includes both laminate-level simulation and structure-oriented evaluation under realistic loading conditions.
-
-### 5. Composite manufacturing and performance optimization
-
-I have also worked on automated fiber placement and composite structure optimization, including the effects of process parameters on porosity and mechanical behavior, as well as surrogate-model-based design optimization.
-
-## Current Direction
-
-At the current stage, my research is moving toward a broader integration of **environmental effects + mechanics + simulation + structure-performance design**, with the goal of supporting reliable applications of composite materials in complex engineering environments.
+## Background
+Yuchi Liu received his Ph.D. in Mechanical Engineering from Zhejiang University. From 2024 to 2025, he worked as a visiting researcher at the National University of Singapore. He is currently a postdoctoral researcher at Tsinghua University.
+:::

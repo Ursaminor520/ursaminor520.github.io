@@ -3,9 +3,9 @@ project:
 
 website:
   title: "Yuchi Liu"
-  site-url: "https://ursaminor520.github.io"
+  site-url: "https://www.liuyuchi.me"
   navbar:
-    background: light
+    background: white
     left:
       - href: index.qmd
         text: Home
@@ -17,13 +17,10 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contact
-    right:
-      - text: CV
-        href: files/Liu_Yuchi_CV.pdf
   page-footer:
     left: "© Yuchi Liu"
     right: "Built with Quarto"
-  search: true
+  search: false
 
 format:
   html:
@@ -32,6 +29,7 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    page-layout: full
 
 execute:
   freeze: auto
